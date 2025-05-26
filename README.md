@@ -4,6 +4,4 @@
 
 # Check On WebPage
 
-<a href="[https://github.com/ziauddin128/modern-circle-menu/index.html](https://ziauddin128.github.io/modern-circle-menu/)" target="blank">Click Here</a>
-
-or Check https://ziauddin128.github.io/modern-circle-menu/
+Link: https://ziauddin128.github.io/modern-circle-menu/
