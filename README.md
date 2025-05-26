@@ -1,3 +1,3 @@
 # Demo
 
-<img src="mnenu.png" width="200px">
+<img src="menu.png" width="200px">
